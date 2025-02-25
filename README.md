@@ -1,5 +1,4 @@
-[.gitignore](..%2Ftest-rga-weather-sdk-example%2Frga.weather.sdk.example%2F.gitignore)
-[pom.xml](..%2Ftest-rga-weather-sdk-example%2Frga.weather.sdk.example%2Fpom.xml)# WeatherApiClient SDK  
+# WeatherApiClient SDK  
 
 ## Overview  
 The WeatherApiClient SDK provides an easy way to access weather data from the OpenWeather API 
